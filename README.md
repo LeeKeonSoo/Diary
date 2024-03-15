@@ -1,6 +1,1 @@
-# Diary
-# Diary
-# Diary
-# Diary
-# Diary
-# Diary
+This is my diary about being a nice programmer.
